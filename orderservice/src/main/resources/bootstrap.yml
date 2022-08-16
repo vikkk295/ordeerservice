@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      git: 
+        uri: 
+          -http://localhost:6161
+  
